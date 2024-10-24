@@ -1,0 +1,1746 @@
+{
+    "videos": [
+        {
+            "_id": "6639b8612c4d48001847ab24",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "60ae11b68fc1580018961da2"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66137b91c34d7db2beba9490",
+                    "name": "Ch-01 : Units and Measurements"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Units and Measurements 14 : Questions on Errors || Significant Digits Rules || Round Off Rules",
+            "date": "2024-05-07T00:00:00.000Z",
+            "startTime": "2024-05-07T10:30:59.000Z",
+            "endTime": "2024-05-07T12:29:48.000Z",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "conversationId": "6639b861170727472717e8e6",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/7f7e2892-883e-4233-a81a-48f64489bb1c\/master.mpd",
+            "videoDetails": {
+                "_id": "663a2b129917c00017245dac",
+                "id": "663a2b129917c00017245dac",
+                "name": "Units and Measurements 14 : Significant Figures and Its Rules",
+                "image": "https:\/\/static.pw.live\/5eb393ee95fab7468a79d189\/7f4d6c53-178f-4862-8430-b9723603b58f.jpg",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/7f7e2892-883e-4233-a81a-48f64489bb1c\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "01:58:08",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-05-07T13:22:26.326Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6638634803839c0018537f40",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "60ae11b68fc1580018961da2"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66137b91c34d7db2beba9490",
+                    "name": "Ch-01 : Units and Measurements"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Units and Measurements 13 : Questions On Errors || Significant Digits",
+            "date": "2024-05-06T00:00:00.000Z",
+            "startTime": "2024-05-06T10:30:54.000Z",
+            "endTime": "2024-05-06T12:31:04.000Z",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "conversationId": "66386348a8abf2c379cf5e60",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/77dbb714-6b9c-45b5-a9f1-48834e6ac513\/master.mpd",
+            "videoDetails": {
+                "_id": "6638da726c01380018c1cea6",
+                "id": "6638da726c01380018c1cea6",
+                "name": "Units and Measurements 13 : Questions On Error Analysis and Significant Figures",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/a5603ade-c49c-4b86-b8f0-a658c33aa826.jpg",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/77dbb714-6b9c-45b5-a9f1-48834e6ac513\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:00:28",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-05-06T13:26:10.670Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6631c8ad16bd59001856fbe7",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "60ae11b68fc1580018961da2"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66137b91c34d7db2beba9490",
+                    "name": "Ch-01 : Units and Measurements"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Units and Measurements 12 : Propagation of Error || Questions || NO DPP || Extra Lecture",
+            "date": "2024-05-01T00:00:00.000Z",
+            "startTime": "2024-05-01T10:30:01.000Z",
+            "endTime": "2024-05-01T12:24:12.000Z",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "conversationId": "6631c8adc9543bf48eea9080",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/55145641-fb74-42c4-a9ad-1385b98e8233\/master.mpd",
+            "videoDetails": {
+                "_id": "663241238b4d95001811e134",
+                "id": "663241238b4d95001811e134",
+                "name": "Units and Measurements 12 : Propagation of Error and Questions || NO DPP || Extra Lecture",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/d8d25b47-4364-49dc-98a3-5bcb4023fd09.jpg",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/55145641-fb74-42c4-a9ad-1385b98e8233\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "01:54:12",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-05-01T13:18:27.725Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "662fdebc00fa200018a2abc8",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "60ae11b68fc1580018961da2"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66137b91c34d7db2beba9490",
+                    "name": "Ch-01 : Units and Measurements"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Units and Measurements 11 : Calculation of Error || Propagation of Error || Questions",
+            "date": "2024-04-30T00:00:00.000Z",
+            "startTime": "2024-04-30T10:30:31.000Z",
+            "endTime": "2024-04-30T12:23:40.000Z",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "conversationId": "662fdebd6c3271df943f0a29",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/cb7bffe6-2e2e-4ada-8dcd-5317a54ac96c\/master.mpd",
+            "videoDetails": {
+                "_id": "6630efdf17999d0018326dce",
+                "id": "6630efdf17999d0018326dce",
+                "name": "Units and Measurements 11 : Calculation of Error || Propagation of Error || Questions",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/6520fa18-9fa9-44cb-adce-30d4dfb3f201.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/cb7bffe6-2e2e-4ada-8dcd-5317a54ac96c\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "01:54:02",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-04-30T13:19:27.069Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "662f232ffec889001839617d",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "60ae11b68fc1580018961da2"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66137b91c34d7db2beba9490",
+                    "name": "Ch-01 : Units and Measurements"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Units and Measurements 10 : Application of Dimensions || Drawbacks of Dimensions || Errors Analysis",
+            "date": "2024-04-29T00:00:00.000Z",
+            "startTime": "2024-04-29T10:30:20.000Z",
+            "endTime": "2024-04-29T12:24:31.000Z",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "conversationId": "662f232fc772ca9f2849731b",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/ea582cb0-b18e-4e86-9ff0-d63f06a9decf\/master.mpd",
+            "videoDetails": {
+                "_id": "662f9dcf6b02530018956cfe",
+                "id": "662f9dcf6b02530018956cfe",
+                "name": "Units and Measurements 10 : Errors is Experiments",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/32e2f072-4729-440d-b856-02a7cf07626e.jpg",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/ea582cb0-b18e-4e86-9ff0-d63f06a9decf\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "01:54:00",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-04-29T13:17:03.595Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6627f18290144500180a7f3a",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "60ae11b68fc1580018961da2"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66137b91c34d7db2beba9490",
+                    "name": "Ch-01 : Units and Measurements"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Units and Measurements 09 : Application of Dimensions || Drawbacks of Dimensions",
+            "date": "2024-04-24T00:00:00.000Z",
+            "startTime": "2024-04-24T10:30:39.000Z",
+            "endTime": "2024-04-24T12:22:49.000Z",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "conversationId": "6627f1827d207a42096a8b86",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/ad7032e2-4a2e-4652-996c-ab6f6a0e68fb\/master.mpd",
+            "videoDetails": {
+                "_id": "66290421483ca7001891fff3",
+                "id": "66290421483ca7001891fff3",
+                "name": "Units and Measurements 09 : Application of Dimensions",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/0809da5c-2828-4d96-8233-2004613b198c.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/ad7032e2-4a2e-4652-996c-ab6f6a0e68fb\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "01:51:40",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-04-24T13:07:45.035Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66273f886a1e04001813b3b7",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "60ae11b68fc1580018961da2"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66137b91c34d7db2beba9490",
+                    "name": "Ch-01 : Units and Measurements"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Units and Measurements 08 : Questions on Principle of Homogeniety || Application of Dimensions",
+            "date": "2024-04-23T00:00:00.000Z",
+            "startTime": "2024-04-23T10:30:12.000Z",
+            "endTime": "2024-04-23T12:23:24.000Z",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "conversationId": "66273f884102dda697b83fad",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/26f0177a-2bf9-425a-9ca7-cf670f1502e6\/master.mpd",
+            "videoDetails": {
+                "_id": "6627b3be520f7f0018fb897a",
+                "id": "6627b3be520f7f0018fb897a",
+                "name": "Units and Measurements 08 : Application of Dimensional Analysis",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/c46de4d1-5d2e-45c9-9fd4-5e79ddbc7f62.jpg",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/26f0177a-2bf9-425a-9ca7-cf670f1502e6\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "01:53:08",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-04-23T13:12:30.031Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6625515f8b8c950018ee03ec",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "60ae11b68fc1580018961da2"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66137b91c34d7db2beba9490",
+                    "name": "Ch-01 : Units and Measurements"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Units and Measurements 07 : Dimensions of Trigonometric and Exponents || Questions on Principle of Homogeniety || Homework",
+            "date": "2024-04-22T00:00:00.000Z",
+            "startTime": "2024-04-22T10:30:47.000Z",
+            "endTime": "2024-04-22T12:19:56.000Z",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "conversationId": "6625515fa26c913cd20a2a85",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/21323626-4a87-4d52-bda5-8879267e99d6\/master.mpd",
+            "videoDetails": {
+                "_id": "66267bd77897ac0018f4518c",
+                "id": "66267bd77897ac0018f4518c",
+                "name": "Units and Measurements 07 : Dimensions of Trigonometric and Exponents || Questions on Principle of Homogeniety",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/ec60a7e7-fbf4-42fc-a6c9-3ff446e52095.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/21323626-4a87-4d52-bda5-8879267e99d6\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "01:47:28",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-04-22T15:01:43.011Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "661f566cab55240018cef584",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "60ae11b68fc1580018961da2"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66137b91c34d7db2beba9490",
+                    "name": "Ch-01 : Units and Measurements"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Units and Measurements 06 : Dimensions of Physical Quantity || Direct JEE Mains Questions on Dimensions || Principle of Homogeneity || Questions",
+            "date": "2024-04-17T00:00:00.000Z",
+            "startTime": "2024-04-17T10:30:54.000Z",
+            "endTime": "2024-04-17T12:21:01.000Z",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "conversationId": "661f56cf3d5772575ee7dd13",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/2bebe927-808a-4499-99f5-3211c2f7d614\/master.mpd",
+            "videoDetails": {
+                "_id": "661fc742ce65110018ebde29",
+                "id": "661fc742ce65110018ebde29",
+                "name": "Units and Measurements 06 : Questions on Dimensions and Principle of Homogeneity",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/56e2f856-eef6-445d-8e3c-82d92d640ddb.jpg",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/2bebe927-808a-4499-99f5-3211c2f7d614\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "01:49:42",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-04-17T12:57:38.801Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "661d6f0e15474d001893ed8f",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "60ae11b68fc1580018961da2"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66137b91c34d7db2beba9490",
+                    "name": "Ch-01 : Units and Measurements"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Units and Measurements 05 : Dimensions of Physical Quantity || WorkBook || NO DPP",
+            "date": "2024-04-16T00:00:00.000Z",
+            "startTime": "2024-04-16T10:30:17.000Z",
+            "endTime": "2024-04-16T12:24:26.000Z",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "conversationId": "661d6f0ecf0f08c62f1e5dc0",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/b43c7b8b-a9e1-4886-a694-83b4ef492442\/master.mpd",
+            "videoDetails": {
+                "_id": "661e779b9feac30018476c44",
+                "id": "661e779b9feac30018476c44",
+                "name": "Units and Measurements 05 : Dimensional Formulas of Physical Quantities || NO DPP",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/c917d61c-c7a4-406a-b192-6877bd897aba.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/b43c7b8b-a9e1-4886-a694-83b4ef492442\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "01:53:52",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-04-16T13:05:31.988Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "661c19c0b47f100018f388e1",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "60ae11b68fc1580018961da2"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66137b91c34d7db2beba9490",
+                    "name": "Ch-01 : Units and Measurements"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Units and Measurements 04 : Conversion of Units || Dimensions & Dimensional Formulas || Workbook",
+            "date": "2024-04-15T00:00:00.000Z",
+            "startTime": "2024-04-15T10:30:13.000Z",
+            "endTime": "2024-04-15T12:21:22.000Z",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "conversationId": "661c19c15a4f1ee09d97f0ae",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/783e2559-44e6-4975-b1aa-a2c105238a90\/master.mpd",
+            "videoDetails": {
+                "_id": "661d2539d197aa0018ac842b",
+                "id": "661d2539d197aa0018ac842b",
+                "name": "Units and Measurements 04 : Questions on Conversion and Dimensions",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/513e1f55-99b4-4bf4-93b2-1639bbb3eded.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/783e2559-44e6-4975-b1aa-a2c105238a90\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "01:50:18",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-04-15T13:01:45.010Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66157f42f694a30019227962",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "60ae11b68fc1580018961da2"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66137b91c34d7db2beba9490",
+                    "name": "Ch-01 : Units and Measurements"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Units and Measurements 03 : Angle and Solid Angle || Some Important Definition, Prefix || Conversion of Units || Dimensions and Important Dimensions",
+            "date": "2024-04-10T00:00:00.000Z",
+            "startTime": "2024-04-10T10:30:01.000Z",
+            "endTime": "2024-04-10T12:26:09.000Z",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "conversationId": "66157f425d723a5461460198",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/884e0a79-138e-4769-ba7b-670e0259fdeb\/master.mpd",
+            "videoDetails": {
+                "_id": "66168f5226de740018cc346e",
+                "id": "66168f5226de740018cc346e",
+                "name": "Units and Measurements 03 : Supplementary Units and Conversion of Units",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/8acadd2c-28e7-470d-9b5b-7d0126ce4ad2.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/884e0a79-138e-4769-ba7b-670e0259fdeb\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "01:55:40",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-04-10T13:08:34.954Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6614cec622c6220018e37a55",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "60ae11b68fc1580018961da2"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66137b91c34d7db2beba9490",
+                    "name": "Ch-01 : Units and Measurements"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Units and Measurements 02 : Classification on Based of Dependency || Units and System of Units || Prefix || Conversions of Units",
+            "date": "2024-04-09T00:00:00.000Z",
+            "startTime": "2024-04-09T10:30:22.000Z",
+            "endTime": "2024-04-09T12:23:32.000Z",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "conversationId": "6614e24c542004446b786a9d",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/a893bce0-b1a2-416c-923d-70a230924447\/master.mpd",
+            "videoDetails": {
+                "_id": "66153e00b3bffb0018741166",
+                "id": "66153e00b3bffb0018741166",
+                "name": "Units and Measurements 02 : Units, System of Units and Their Classification",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/ebcd4f8a-df0e-46aa-9807-5c138c453794.jpg",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/a893bce0-b1a2-416c-923d-70a230924447\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "01:52:12",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-04-09T13:09:20.771Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6613e7a0a79fcb0018599852",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "60ae11b68fc1580018961da2"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "66137b91c34d7db2beba9490",
+                    "name": "Ch-01 : Units and Measurements"
+                }
+            ],
+            "isFree": true,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "PENDING",
+            "whiteboardType": "NOTE3",
+            "topic": "Units and Measurements 01 : How Are We Going To Study ? || DO's and Don'ts || Reference Books \/ Test \/ DPP \/ Doubts || Introduction To Topics Of Units || NO DPP",
+            "date": "2024-04-08T00:00:00.000Z",
+            "startTime": "2024-04-08T10:30:10.000Z",
+            "endTime": "2024-04-08T10:30:17.000Z",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/d1cdbf51-2cc9-4507-ac95-059b53f7050e\/master.mpd",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "videoDetails": {
+                "_id": "6613f586d377510018491b9c",
+                "id": "6613f586d377510018491b9c",
+                "name": "Units and Measurements 01 : How Are We Going To Study ? || DO's and Don'ts || Reference Books \/ Test \/ DPP \/ Doubts || Introduction To Topics Of Units || NO DPP",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/2e2866cc-c091-4bed-982d-7d6f4e742b91.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/d1cdbf51-2cc9-4507-ac95-059b53f7050e\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "01:48:53",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-04-08T13:47:50.196Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        }
+    ],
+    "notes": [
+        {
+            "_id": "6639b8612c4d48001847ab24",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-05-07T00:00:00.000Z",
+            "startTime": "2024-05-07T10:30:59.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "663a213ecec5883c6a0e566d",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements 14 : Class Notes || Arjuna JEE 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "663a213c60dea700181dca35",
+                            "name": "Units and Measurements 14 _ Class Notes __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/0310f830-c39b-4800-8d1b-62d1176d682d.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6638634803839c0018537f40",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-05-06T00:00:00.000Z",
+            "startTime": "2024-05-06T10:30:54.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "6638d153c304527d7a56ab05",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements 13 : Class Notes || Arjuna JEE 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "6638d14e1ffdd60018d6e8e2",
+                            "name": "Units and Measurements 13 _ Class Notes __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/51117f24-41ae-4858-8770-801c7d23e806.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6631c8ad16bd59001856fbe7",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-05-01T00:00:00.000Z",
+            "startTime": "2024-05-01T10:30:01.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "6632373edaa2fe8ccb470977",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements 12 : Class Notes || Arjuna JEE 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "6632373d7b55eb001858dd02",
+                            "name": "Units and Measurements 12 _ Class Notes __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/1a5ebaa8-90d1-48f4-ac58-c9a31073541f.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "662fdebc00fa200018a2abc8",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-04-30T00:00:00.000Z",
+            "startTime": "2024-04-30T10:30:31.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "6630e5cb3e833932980d8dbc",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements 11 : Class Notes || Arjuna JEE 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "6630e5c9b1523600182ff701",
+                            "name": "Units and Measurements 11 _ Class Notes __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/22a3a6ed-71e1-4109-bc1c-dba0f465e7ee.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "662f232ffec889001839617d",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-04-29T00:00:00.000Z",
+            "startTime": "2024-04-29T10:30:20.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "662f94fae623c8aad33e8eeb",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements 10 : Class Notes || Arjuna JEE 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "662f94f73f5c70001815447d",
+                            "name": "Units and Measurements 10 _ Class Notes __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/4e448dce-87ac-4d78-9d82-02e0dec42b17.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6627f18290144500180a7f3a",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-04-24T00:00:00.000Z",
+            "startTime": "2024-04-24T10:30:39.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "6628fc976a0b2dc9c8e51b9a",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements 09 : Class Notes || Arjuna JEE 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "6628fc9571d8d800e358ed15",
+                            "name": "Units and Measurements 09 _ Class Notes __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/a04120ca-ea2e-42cb-aeb4-c1c5b1f20527.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66273f886a1e04001813b3b7",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-04-23T00:00:00.000Z",
+            "startTime": "2024-04-23T10:30:12.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "6627aa12f9cf5836892eb1fb",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements 08 : Class Notes || Arjuna JEE 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "6627aa103c678400181ab0f8",
+                            "name": "Units and Measurements 08 _ Class Notes __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/da31d0fa-607c-4993-80e7-8054c202eb0b.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6625515f8b8c950018ee03ec",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-04-22T00:00:00.000Z",
+            "startTime": "2024-04-22T10:30:47.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "662659055ee9d63765479f7c",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements 07 : Class Notes || Arjuna JEE 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "662659038ae12400188c5020",
+                            "name": "Units and Measurements 07 _ Class Notes __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/033ddf59-eba5-4003-9ae1-e200b5f69dec.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "661f566cab55240018cef584",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-04-17T00:00:00.000Z",
+            "startTime": "2024-04-17T10:30:54.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "661fbffab081b32299f428d4",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements 06 : Class Notes || Arjuna JEE 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "661fbff717f75b0019a6b68b",
+                            "name": "Units and Measurements 06 _ Class Notes __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/64875256-4aae-4b27-842a-7b8e2edd90ab.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "661d6f0e15474d001893ed8f",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-04-16T00:00:00.000Z",
+            "startTime": "2024-04-16T10:30:17.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "661e725cd6451ec0e6fec664",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements 05 : Class Notes || Arjuna JEE 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "661e725a5ea19a00185b8ed6",
+                            "name": "Units and Measurements 05 _ Class Notes __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/e7e945ee-e032-4815-aab0-26aebaad914b.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "661c19c0b47f100018f388e1",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-04-15T00:00:00.000Z",
+            "startTime": "2024-04-15T10:30:13.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "661d1d033fa3c93edbefbef6",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements 04 : Class Notes || Arjuna JEE 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "661d1d0188493b00182eb32f",
+                            "name": "Units and Measurements 04 _ Class Notes __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/1f7265c4-1a71-4c17-9b49-6656e4550e11.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66157f42f694a30019227962",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-04-10T00:00:00.000Z",
+            "startTime": "2024-04-10T10:30:01.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "661687ac3e08ec2c8d72828d",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements 03 : Class Notes || Arjuna JEE 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "661687aaea0c190018d4ac8e",
+                            "name": "Units and Measurements 03_ Class Notes __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/163c574d-d3e7-480c-acdd-12f2dc571479.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6614cec622c6220018e37a55",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-04-09T00:00:00.000Z",
+            "startTime": "2024-04-09T10:30:22.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "6615351e89772759c56accc7",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements 02 : Class Notes || Arjuna JEE 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "6615351b11d58900187a79e3",
+                            "name": "Units and Measurements 02_ Class Notes __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/52c60e47-a571-4120-8abd-0aa00eabf6ec.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6613e7a0a79fcb0018599852",
+            "isFree": true,
+            "status": "PENDING",
+            "date": "2024-04-08T00:00:00.000Z",
+            "startTime": "2024-04-08T10:30:10.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "6613e7f6941032991f9596ea",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements 01 : Class Notes || Arjuna JEE 2025",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "6613e7f39c99240018714999",
+                            "name": "Units and Measurements 01_ Class Notes __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/dc2482d9-65fb-401f-a58a-ae2cdab2d073.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        }
+    ],
+    "DppNotes": [
+        {
+            "_id": "6639f4b2d4084500183c1a1d",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-05-07T00:00:00.000Z",
+            "startTime": "2024-05-07T10:30:05.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "6639f478294ddc8515615a2f",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements : DPP 11 (Of Lec 14) || Arjuna JEE 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "6639f4763abe570018c6150d",
+                            "name": "Units and Measurements _ DPP 11 (Of Lec 13) __ Arjuna JEE 2025 .pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/4130161c-7ec1-4e92-bf92-5e3a3ca149d8.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66389830cea1fb00189faf47",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-05-06T00:00:00.000Z",
+            "startTime": "2024-05-06T10:30:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "663897e405ee54cc54045885",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements : DPP 10 (Of Lec 13) || Arjuna JEE 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "66389c6549feb50018a83410",
+                            "name": "Units and Measurements _ DPP 10 (Of Lec 12) __ Arjuna JEE 2025 .pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/6116289c-2ef9-4333-b2b2-1e8c8826fb69.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6630a5032ceadb0019ae4f01",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-30T00:00:00.000Z",
+            "startTime": "2024-04-30T10:30:39.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "6630a559e623c8aad347f4c0",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements : DPP 09 (Of Lec 11) || Arjuna JEE 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "6630a5568e336a0018cda24d",
+                            "name": "Units and Measurements _ DPP 09 (Of Lec 11) __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/aaa046db-8bbf-4567-b7ce-00be3b61bcca.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "662f6ea4a403b10018635027",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-29T00:00:00.000Z",
+            "startTime": "2024-04-29T10:30:20.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "662f6f1501b45c9d8ac58ed0",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements : DPP 08 (Of Lec 10) || Arjuna JEE 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "662f75c6844e4c0018759c66",
+                            "name": "Units and Measurements _ DPP 08 (Of Lec 10) __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/a3b00819-0de8-41f0-9ca3-47a91e99d58f.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6628c97f32eaad001917fe3f",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-24T00:00:00.000Z",
+            "startTime": "2024-04-24T10:30:14.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "6628c9af19144732085acd9d",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements : DPP 07 (Of Lec 09) || Arjuna JEE 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "6628c9ac93f49a0018cf1476",
+                            "name": "Units and Measurements _ DPP 07 (Of Lec 09) __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/c71ace67-cdba-4497-828b-83c802840d48.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66277c638e72490019a83dfc",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-23T00:00:00.000Z",
+            "startTime": "2024-04-23T10:30:59.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "66277cb5916e20947700203d",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements : DPP 06 (Of Lec 08) || Arjuna JEE 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "66277cb28733c4001857174b",
+                            "name": "Units and Measurements _ DPP 06 (Of Lec 08) __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/12fdd1fa-2607-4865-9e6d-1bd08d560d3e.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "662603962a207300185813bd",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-22T00:00:00.000Z",
+            "startTime": "2024-04-22T10:30:03.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "6626034a1aa8085a76886381",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements : DPP 05 (Of Lec 07) || Arjuna JEE 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "662603478cf11d001850e61f",
+                            "name": "Units and Measurements _ DPP 05 (Of Lec 07) __ Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/ee39511a-2f77-4c1f-a778-4b87b423f971.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "661f80ebd4a73c0019f7fdda",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-17T00:00:00.000Z",
+            "startTime": "2024-04-17T10:30:09.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "661f80944f7b6343a85fb83c",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements : DPP 04 (Of Lec 06) || Arjuna JEE 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "661f80907c67020018e3a0e9",
+                            "name": "Units and Measurements _DPP 04 (Of Lec 06)_Arjuna JEE 2025pdf.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/d538e469-d2fb-4c25-813c-ff81d086e891.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "661cc34f87b1570018297a7a",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-15T00:00:00.000Z",
+            "startTime": "2024-04-15T10:30:38.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "661cc317cd3ac5d9a69b6adb",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements : DPP 03 (Of Lec 04) || Arjuna JEE 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "661cc3158d84490018d2f4bb",
+                            "name": "Units and Measurements _DPP 03 (Of Lec 04)_Arjuna JEE 2025pdf.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/8a637d12-ccbc-4f4b-88b2-77facfc7ac6a.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66166209b1ac04001884d812",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-10T00:00:00.000Z",
+            "startTime": "2024-04-10T10:30:59.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "661661a8cfb1516c8576681e",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements : DPP 02 (Of Lec 03) || Arjuna JEE 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "661661a680718a00181e292e",
+                            "name": "Units and Measurements_ DPP 02 (Of Lec 03) __Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/f9e6aa50-9a62-4615-954b-9ac598645235.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6615047fc8d5ba00181cbfcb",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-09T00:00:00.000Z",
+            "startTime": "2024-04-09T10:30:23.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "6615042f8ca7cc7328356867",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Units and Measurements : DPP 01 (Of Lec 02) || Arjuna JEE 2025",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "66151da87bbb280018dfd619",
+                            "name": "Units and Measurements_ DPP 01 (Of Lec 02) __Arjuna JEE 2025.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/8808d2d7-1028-4889-b508-72c97f382454.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65dc61e8dc380a0018a59a28"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        }
+    ],
+    "DppVideos": [],
+    "exercises": [
+        {
+            "_id": "6639f4b2d4084500183c1a1d",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-05-07T00:00:00.000Z",
+            "startTime": "2024-05-07T10:30:05.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Units and Measurements : DPP 11 MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "6639f32b60dea700181d41ba",
+                            "exerciseId": "6639f32b8b77591dca956bec",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "units-and-measurements---dpp-11-mcq-quiz-639108"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66389830cea1fb00189faf47",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-05-06T00:00:00.000Z",
+            "startTime": "2024-05-06T10:30:00.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Units and Measurements : DPP 10 MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "6638970103839c001853f833",
+                            "exerciseId": "663897014359133cde3dc61d",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "units-and-measurements---dpp-10-mcq-quiz-953246"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6630a5032ceadb0019ae4f01",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-30T00:00:00.000Z",
+            "startTime": "2024-04-30T10:30:39.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Units and Measurements : DPP 09 MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "6630a45ba1ece0001948d311",
+                            "exerciseId": "6630a45bd29d8b70f605226c",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "units-and-measurements---dpp-09-mcq-quiz-046510"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "662f6ea4a403b10018635027",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-29T00:00:00.000Z",
+            "startTime": "2024-04-29T10:30:20.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Units and Measurements : DPP 08 MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "662f6a14a328f500184982d6",
+                            "exerciseId": "662f6a143bf8bef72553b8b0",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "units-and-measurements---dpp-08-mcq-quiz-269712"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6628c97f32eaad001917fe3f",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-24T00:00:00.000Z",
+            "startTime": "2024-04-24T10:30:14.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Units and Measurements : DPP 07 MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "6628c84c91caaf001872fa91",
+                            "exerciseId": "6628c84c6d11d5b3f591d0be",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "units-and-measurements---dpp-07-mcq-quiz-930037"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66277c638e72490019a83dfc",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-23T00:00:00.000Z",
+            "startTime": "2024-04-23T10:30:59.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Units and Measurements : DPP 06 MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "66277637c426550018950161",
+                            "exerciseId": "6627763798740a7eec020815",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "units-and-measurements---dpp-06-mcq-quiz-097223"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "662603962a207300185813bd",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-22T00:00:00.000Z",
+            "startTime": "2024-04-22T10:30:03.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Units and Measurements : DPP 05 MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "6626016071db970018f646de",
+                            "exerciseId": "66260160982fff4d6129167f",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "units-and-measurements---dpp-05-mcq-quiz-715945"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "661f80ebd4a73c0019f7fdda",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-17T00:00:00.000Z",
+            "startTime": "2024-04-17T10:30:09.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Units and Measurements : DPP 04 MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "661fc07d16306b00180fcbcc",
+                            "exerciseId": "661f9d0f406ba755c37ae283",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "units-and-measurements---dpp-04-mcq-quiz-935080"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "661cc34f87b1570018297a7a",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-15T00:00:00.000Z",
+            "startTime": "2024-04-15T10:30:38.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Units and Measurements : DPP 03 MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "661ce75543f3da0018ae293d",
+                            "exerciseId": "661ce7551c94707caae81a88",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "units-and-measurements---dpp-03-mcq-quiz-369377"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "66166209b1ac04001884d812",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-10T00:00:00.000Z",
+            "startTime": "2024-04-10T10:30:59.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Units and Measurements : DPP 02 MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "66166d26e6c9070018f9dd6e",
+                            "exerciseId": "661660c268f7b689a3c99a9e",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "units-and-measurements---dpp-02-mcq-quiz-992402"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6615047fc8d5ba00181cbfcb",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-09T00:00:00.000Z",
+            "startTime": "2024-04-09T10:30:23.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Units and Measurements : DPP 01 MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "66150257b9d7200018a9966c",
+                            "exerciseId": "66150257f9b0c60fa738e688",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "units-and-measurements---dpp-01-mcq-quiz-037765"
+                }
+            ],
+            "dRoomId": "65dcc16d54ded86490b2a304",
+            "isBatchDoubtEnabled": true
+        }
+    ]
+}

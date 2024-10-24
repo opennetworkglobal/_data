@@ -1,0 +1,242 @@
+{
+    "videos": [
+        {
+            "_id": "664c0bc83801c00018913c21",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "616daf29ef4d3a027e481a1b"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "664333723607a034bfe97b3a",
+                    "name": "Preamble"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "PENDING",
+            "whiteboardType": "NOTE3",
+            "topic": "Polity 06 : Preamble (Part - 02) || (Recorded) Extra Class || No MCQ Quiz",
+            "date": "2024-05-21T00:00:00.000Z",
+            "startTime": "2024-05-21T06:30:22.000Z",
+            "endTime": "2024-05-21T06:30:30.000Z",
+            "lectureType": "RECORDED",
+            "timeline": [],
+            "conversationId": "664c0bc880ecc3eb7b277c05",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/7f510373-9f6a-4e8a-9102-06cca9292e1f\/master.mpd",
+            "videoDetails": {
+                "_id": "664b24b7d39dd30018d8a938",
+                "id": "664b24b7d39dd30018d8a938",
+                "name": "Polity 06 : Preamble (Part - 02)",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/18c21927-0198-4b73-8b79-a0c744979b53.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/7f510373-9f6a-4e8a-9102-06cca9292e1f\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "01:16:42",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-05-20T10:23:51.645Z",
+                "drmProtected": false
+            },
+            "dRoomId": "",
+            "isBatchDoubtEnabled": false
+        },
+        {
+            "_id": "664333ae2265230018857517",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "616daf29ef4d3a027e481a1b"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "664333723607a034bfe97b3a",
+                    "name": "Preamble"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Polity 05 : Preamble (Part - 01)",
+            "date": "2024-05-15T00:00:00.000Z",
+            "startTime": "2024-05-15T06:30:28.000Z",
+            "endTime": "2024-05-15T07:50:36.000Z",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "conversationId": "664333ae92a3211067b04c25",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/f56781ed-10bd-4fe2-b45c-48b95b982ca6\/master.mpd",
+            "videoDetails": {
+                "_id": "6644706ab8a18100124cdc37",
+                "id": "6644706ab8a18100124cdc37",
+                "name": "Polity 05 : Preamble (Part - 01)",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/6aff6701-10c1-40b2-97ef-9206b8d59420.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/f56781ed-10bd-4fe2-b45c-48b95b982ca6\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "01:20:52",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-05-15T08:20:58.141Z",
+                "drmProtected": false
+            },
+            "dRoomId": "",
+            "isBatchDoubtEnabled": false
+        }
+    ],
+    "notes": [
+        {
+            "_id": "664c0bc83801c00018913c21",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-05-21T00:00:00.000Z",
+            "startTime": "2024-05-21T06:30:22.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "664c10212b741b9b67d4fa45",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Polity 06 : Class Notes",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "664c101eac29a800186bdf01",
+                            "name": "Polity 06 - Class Notes.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/2d882ac7-2003-4e03-b5fa-032b00966ce7.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65f88a63ff3b84001888b35f"
+                }
+            ],
+            "dRoomId": "",
+            "isBatchDoubtEnabled": false
+        },
+        {
+            "_id": "664333ae2265230018857517",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-05-15T00:00:00.000Z",
+            "startTime": "2024-05-15T06:30:28.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "66446cff63af630370fc7232",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Polity 05 : Class Notes",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "6644790289ad150018a24af1",
+                            "name": "Polity 05 - Class Notes.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/a0d47f9d-59c4-4e1d-80c1-8be70ddd2f51.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "65f88a63ff3b84001888b35f"
+                }
+            ],
+            "dRoomId": "",
+            "isBatchDoubtEnabled": false
+        }
+    ],
+    "DppNotes": [],
+    "DppVideos": [
+        {
+            "_id": "66495dd5a214be001851d755",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "664333723607a034bfe97b3a",
+                    "name": "Preamble"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": false,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": true,
+            "status": "PENDING",
+            "whiteboardType": "NOTE3",
+            "topic": "Solution To Preamble : MCQ Quiz",
+            "date": "2024-05-19T00:00:00.000Z",
+            "startTime": "2024-05-19T03:30:43.000Z",
+            "endTime": "2024-05-19T03:30:52.000Z",
+            "lectureType": "RECORDED",
+            "timeline": [],
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/d991b488-1a74-4ba3-90fe-89e6b29a6725\/master.mpd",
+            "videoDetails": {
+                "_id": "664709c8f036b00018154b1d",
+                "id": "664709c8f036b00018154b1d",
+                "name": "Solution To Preamble : MCQ Quiz",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/eb9b4924-b48c-40c3-9f4b-00b9cacdf822.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/d991b488-1a74-4ba3-90fe-89e6b29a6725\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "00:04:09",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-05-17T07:39:52.831Z",
+                "drmProtected": false
+            },
+            "dRoomId": "",
+            "isBatchDoubtEnabled": false
+        }
+    ],
+    "exercises": [
+        {
+            "_id": "6644345add04340018dcbbf4",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-05-15T00:00:00.000Z",
+            "startTime": "2024-05-15T06:30:23.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Preamble : MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "6646b23d8494c500183fe945",
+                            "exerciseId": "6644349716407501890ea322",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "preamble---mcq-quiz-022699"
+                }
+            ],
+            "dRoomId": "",
+            "isBatchDoubtEnabled": false
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "videos": [
+        {
+            "_id": "5f7a477ebdd3da01434adc2c",
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "5f7caf3fde7f900011afe5c0",
+                    "name": "Ch-01 Basic Maths(DPP Solution)"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "status": "PENDING",
+            "topic": "Basic Mathematics : Solution to DPP 02",
+            "date": "2020-10-05T18:29:59.000Z",
+            "startTime": "2020-10-05T00:30:59.000Z",
+            "endTime": "2020-10-05T01:30:59.000Z",
+            "url": "https:\/\/pw.pc.cdn.bitgravity.com\/8a238ec7-768f-450f-bb38-1cc9718c7f36\/master.mpd",
+            "isCommentDisabled": false,
+            "isDPPVideos": false,
+            "isDoubtEnabled": false,
+            "isPathshala": false,
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [],
+            "timeline": [],
+            "videoDetails": {
+                "_id": "5f79b2f0ebf49300181898a8",
+                "id": "5f79b2f0ebf49300181898a8",
+                "name": "Basic Maths : Solution to DPP 02",
+                "image": "https:\/\/static.pw.live\/5eb393ee95fab7468a79d189\/f7d76d9e-2519-462d-aad6-ed9193728ca6.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/8a238ec7-768f-450f-bb38-1cc9718c7f36\/master.mpd",
+                "duration": "00:56:56",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2020-10-04T11:33:04.751Z",
+                "drmProtected": false
+            },
+            "dRoomId": "",
+            "isBatchDoubtEnabled": false
+        },
+        {
+            "_id": "5f7a8f616ff2c20018f12bfa",
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "5f7caf3fde7f900011afe5c0",
+                    "name": "Ch-01 Basic Maths(DPP Solution)"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "status": "PENDING",
+            "topic": "Basic Maths - Solution to DPP 01",
+            "date": "2020-10-05T18:29:59.000Z",
+            "startTime": "2020-10-05T00:00:59.000Z",
+            "endTime": "2020-10-05T01:00:59.000Z",
+            "url": "https:\/\/pw.pc.cdn.bitgravity.com\/ca900aa8-28d0-4e8e-9278-e4c182ecbbb2\/master.mpd",
+            "isCommentDisabled": false,
+            "isDPPVideos": false,
+            "isDoubtEnabled": false,
+            "isPathshala": false,
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [],
+            "timeline": [],
+            "videoDetails": {
+                "_id": "5f7a89f3db4d39015e3a697a",
+                "id": "5f7a89f3db4d39015e3a697a",
+                "name": "Basic Maths : Solution to DPP 01",
+                "image": "https:\/\/static.pw.live\/5eb393ee95fab7468a79d189\/4b3b28a7-55de-426c-bab6-b55da5d0c738.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/ca900aa8-28d0-4e8e-9278-e4c182ecbbb2\/master.mpd",
+                "duration": "01:17:15",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2020-10-05T02:50:27.602Z",
+                "drmProtected": false
+            },
+            "dRoomId": "",
+            "isBatchDoubtEnabled": false
+        }
+    ],
+    "notes": [
+        {
+            "_id": "5f7a477ebdd3da01434adc2c",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2020-10-05T18:29:59.000Z",
+            "startTime": "2020-10-05T00:30:59.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "5f7a8eb05c258b00182fd893",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Basic Maths : Solution to DPP 02",
+                    "note": "Solution DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "5f7a8ead6fb68900748ae955",
+                            "name": "DPP-02 (Discussion Notes) Basic Mathematics.pdf",
+                            "baseUrl": "https:\/\/d1qs8w2pzjtoy9.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/3dcb7d82-77fa-4e19-9ccf-01b52989383b.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "5f709efa1b999704b83cd11c"
+                }
+            ],
+            "dRoomId": "",
+            "isBatchDoubtEnabled": false
+        },
+        {
+            "_id": "5f7a8f616ff2c20018f12bfa",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2020-10-05T18:29:59.000Z",
+            "startTime": "2020-10-05T00:00:59.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "5f7a8e8d6ff2c20018f12bc6",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Basic Maths : Solution to DPP 01",
+                    "note": "DPP SOLUTIONS",
+                    "attachmentIds": [
+                        {
+                            "_id": "5f7a8e87e3da870019abb5c1",
+                            "name": "DPP-01 (Discussion Notes) Basic Mathematics.pdf",
+                            "baseUrl": "https:\/\/d1qs8w2pzjtoy9.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/fd1058d1-2cd7-432b-b689-62d24fdc9f9c.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "5f709efa1b999704b83cd11c"
+                }
+            ],
+            "dRoomId": "",
+            "isBatchDoubtEnabled": false
+        }
+    ],
+    "DppNotes": [],
+    "DppVideos": [],
+    "exercises": []
+}

@@ -1,0 +1,70 @@
+{
+    "videos": [],
+    "notes": [
+        {
+            "_id": "66740c4cc2558d0018e12e92",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-06-20T00:00:00.000Z",
+            "startTime": "2024-06-20T11:00:56.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "66740d036870f13ab8fd4dbb",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Proctor Test Result (Only PDF)",
+                    "note": "Test Result",
+                    "attachmentIds": [
+                        {
+                            "_id": "66740cf81d833d00172265a5",
+                            "name": "Proctor Result  - Copy of Arjuna JEE AIR .pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/ADMIN\/d9b5558c-548b-4a0f-9f8b-8ed96c9ee4a7.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "664af409ad6a2e001222414a"
+                }
+            ],
+            "dRoomId": "",
+            "isBatchDoubtEnabled": false
+        },
+        {
+            "_id": "666ac61c40a9650018c4d13f",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-06-13T00:00:00.000Z",
+            "startTime": "2024-06-13T10:30:16.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "6669bc00fa3a9bf08c49ac66",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Test Result  (Only PDF)",
+                    "note": "Others",
+                    "attachmentIds": [
+                        {
+                            "_id": "6673ecc1dfdc7fe8fbb6b6e7",
+                            "name": "AIR Admission TEST Result  - Copy of Arjuna JEE AIR Admission Test (2).pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/ADMIN\/e1c9b15c-692b-4d84-9b3c-0cf33616757d.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "664af409ad6a2e001222414a"
+                }
+            ],
+            "dRoomId": "",
+            "isBatchDoubtEnabled": false
+        }
+    ],
+    "DppNotes": [],
+    "DppVideos": [],
+    "exercises": []
+}

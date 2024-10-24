@@ -1,0 +1,2572 @@
+{
+    "videos": [
+        {
+            "_id": "662815657ad9580018339e43",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Arithmetic 19 : Average",
+            "date": "2024-04-24T00:00:00.000Z",
+            "startTime": "2024-04-24T14:30:00.000Z",
+            "endTime": "2024-04-24T16:52:00.000Z",
+            "timeline": [],
+            "conversationId": "6628156530f6a2fe92eae6b5",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/b7ccf336-5491-4526-ae25-dfe5f1cae7f0\/master.mpd",
+            "videoDetails": {
+                "_id": "662942393727eb001805d515",
+                "id": "662942393727eb001805d515",
+                "name": "Arithmetic 19 : Average",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/19063334-b2df-4631-b9a4-5ef11182ad36.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/b7ccf336-5491-4526-ae25-dfe5f1cae7f0\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:15:28",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-04-24T17:32:41.388Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "661f589191dd200018251354",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Arithmetic 18 : Distance Time and Speed - 4",
+            "date": "2024-04-17T00:00:00.000Z",
+            "startTime": "2024-04-17T14:30:00.000Z",
+            "endTime": "2024-04-17T16:57:00.000Z",
+            "timeline": [],
+            "conversationId": "661f58b3428bb275e174e2da",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/dd5398f6-5d91-4313-aac2-d04cc2b6367d\/master.mpd",
+            "videoDetails": {
+                "_id": "66200afdf5816f0018185423",
+                "id": "66200afdf5816f0018185423",
+                "name": "Arithmetic 18 : Distance Time and Speed - 4",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/f919490a-20a7-45b6-ac7a-b14db0b8845d.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/dd5398f6-5d91-4313-aac2-d04cc2b6367d\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:26:44",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-04-17T17:46:37.570Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6615a9263777dc00185eb67f",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Arithmetic 17 : Distance Time and Speed - 3",
+            "date": "2024-04-10T00:00:00.000Z",
+            "startTime": "2024-04-10T14:30:00.000Z",
+            "endTime": "2024-04-10T16:50:00.000Z",
+            "timeline": [],
+            "conversationId": "6615a99bce61f68888f9c06e",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/78a22b63-e273-4b1d-93c7-cac6c9c84b05\/master.mpd",
+            "videoDetails": {
+                "_id": "6616cd972cab630019bc8d17",
+                "id": "6616cd972cab630019bc8d17",
+                "name": "Arithmetic 17 : Distance Time and Speed - 3",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/e5b22269-7053-49f4-88ca-37dc8b1e6e00.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/78a22b63-e273-4b1d-93c7-cac6c9c84b05\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:15:44",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-04-10T17:34:15.327Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "660c4a125b23850018673f6f",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Arithmetic 16 : Distance Time and Speed - 2",
+            "date": "2024-04-03T00:00:00.000Z",
+            "startTime": "2024-04-03T14:30:00.000Z",
+            "endTime": "2024-04-03T16:55:00.000Z",
+            "timeline": [],
+            "conversationId": "660c4a117a19000a590dee43",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/54abbeb8-81f7-4cae-8b8f-3bb6fb786329\/master.mpd",
+            "lectureType": "LIVE",
+            "videoDetails": {
+                "_id": "660d95d5b6f4ad001898721a",
+                "id": "660d95d5b6f4ad001898721a",
+                "name": "Arithmetic 16 : Distance Time and Speed - 2",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/88327e57-10dd-4d5c-8782-33fffaa67b1a.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/54abbeb8-81f7-4cae-8b8f-3bb6fb786329\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:24:16",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-04-03T17:45:57.945Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6603361a588d430018055816",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Arithmetic 15 : Distance Time and Speed - 1",
+            "date": "2024-03-27T00:00:00.000Z",
+            "startTime": "2024-03-27T14:30:00.000Z",
+            "endTime": "2024-03-27T16:48:00.000Z",
+            "timeline": [],
+            "conversationId": "6603361a5aa3e5936eff61a7",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/925b3f94-3398-4761-9db7-f096f28dd7fb\/master.mpd",
+            "videoDetails": {
+                "_id": "6604596a26a7bd0012a4be86",
+                "id": "6604596a26a7bd0012a4be86",
+                "name": "Arithmetic 15 : Distance Time and Speed - 1",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/449d4370-ea2f-4731-98a3-ae938d647769.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/925b3f94-3398-4761-9db7-f096f28dd7fb\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:14:36",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-03-27T17:37:46.838Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65f9e72daef3e500182a9027",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "whiteboardType": "NOTE3",
+            "topic": "Arithmetic 14 : Work Rate and Time - 3",
+            "date": "2024-03-20T00:00:00.000Z",
+            "startTime": "2024-03-20T14:30:00.000Z",
+            "endTime": "2024-03-20T16:45:00.000Z",
+            "timeline": [],
+            "conversationId": "65f9e72de765846113f873de",
+            "url": "https:\/\/d3nzo6itypaz07.cloudfront.net\/4aeaf08d-a00d-474e-bad2-824ad279dbea\/master.mpd",
+            "lectureType": "LIVE",
+            "videoDetails": {
+                "_id": "65fb17d700928b0018fb1c1d",
+                "id": "65fb17d700928b0018fb1c1d",
+                "name": "Arithmetic 14 : Work Rate and Time - 3 Edited 20-03-2024",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/8e97206f-9b13-4930-a8dc-728c3d130152.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/4aeaf08d-a00d-474e-bad2-824ad279dbea\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:13:40",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-03-20T17:07:35.910Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65f142365ba00d001837507e",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "topic": "Arithmetic 13 : Work Rate and Time - 2",
+            "date": "2024-03-13T00:00:00.000Z",
+            "startTime": "2024-03-13T14:30:33.000Z",
+            "endTime": "2024-03-13T16:41:37.000Z",
+            "lectureType": "LIVE",
+            "timeline": [],
+            "conversationId": "65f1423696a3420f5d336445",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/4f61d0b4-d0ca-4372-a0f2-1a8feea82a5c\/master.mpd",
+            "videoDetails": {
+                "_id": "65f1e0f876d0fc00188f3cf6",
+                "id": "65f1e0f876d0fc00188f3cf6",
+                "name": "Arithmetic 13 : Work Rate and Time - 2",
+                "image": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/5eb393ee95fab7468a79d189\/5e96e2c0-64f6-46eb-8e1b-75f9d2d3c7c6.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/4f61d0b4-d0ca-4372-a0f2-1a8feea82a5c\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:11:16",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-03-13T17:23:04.961Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65e7fbf66208fa001850d712",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "topic": "Arithmetic 12 : Work Rate and Time - 1",
+            "date": "2024-03-06T00:00:00.000Z",
+            "startTime": "2024-03-06T14:30:00.000Z",
+            "endTime": "2024-03-06T16:51:00.000Z",
+            "timeline": [],
+            "conversationId": "65e7fbf65e15f50018f33a1a",
+            "lectureType": "LIVE",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/3b70468b-418f-44a5-b4d7-f110e9de8390\/master.mpd",
+            "videoDetails": {
+                "_id": "65e8a97a837994001244600e",
+                "id": "65e8a97a837994001244600e",
+                "name": "Arithmetic 12 : Work Rate and Time - 1 || (Class Notes & Download Option Will Be Provided Soon)",
+                "image": "https:\/\/static.pw.live\/5eb393ee95fab7468a79d189\/8b4ea0c4-5912-4b6d-a1e4-28ec26b03fe0.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/3b70468b-418f-44a5-b4d7-f110e9de8390\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:22:00",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-03-06T17:35:54.886Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65dea087c66de200184677cb",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "topic": "Arithmetic 11 : Mixtures and Allegations - 2",
+            "date": "2024-02-28T00:00:00.000Z",
+            "startTime": "2024-02-28T14:30:00.000Z",
+            "endTime": "2024-02-28T16:55:00.000Z",
+            "timeline": [],
+            "conversationId": "65dea087f04e0f001882d57c",
+            "lectureType": "LIVE",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/0b8c035b-96d0-4883-a53b-51424f2aa3eb\/master.mpd",
+            "videoDetails": {
+                "_id": "65df70edfc1c020018109ca5",
+                "id": "65df70edfc1c020018109ca5",
+                "name": "Arithmetic 11 : Mixtures and Allegations - 2",
+                "image": "https:\/\/static.pw.live\/5eb393ee95fab7468a79d189\/ce2f2917-1a67-4912-a1e9-7e9a8b6dfb66.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/0b8c035b-96d0-4883-a53b-51424f2aa3eb\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:23:56",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-02-28T17:44:13.340Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65d234bf0fea1d00184f0fff",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "topic": "Arithmetic 10 : Mixtures and Allegations - 1",
+            "date": "2024-02-19T00:00:00.000Z",
+            "startTime": "2024-02-19T14:30:00.000Z",
+            "endTime": "2024-02-19T16:47:00.000Z",
+            "timeline": [],
+            "conversationId": "65d234bf29c26a0018feded3",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/92146171-9a0c-48de-aea8-0926e68d41ce\/master.mpd",
+            "videoDetails": {
+                "_id": "65d3912a1f30250018d5027a",
+                "id": "65d3912a1f30250018d5027a",
+                "name": "Arithmetic 10 : Mixtures and Allegations - 1",
+                "image": "https:\/\/static.pw.live\/5eb393ee95fab7468a79d189\/142a5edd-4027-498d-a437-5813cf071142.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/92146171-9a0c-48de-aea8-0926e68d41ce\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:15:36",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-02-19T17:34:34.145Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65cc4a92c1082e00186d43dd",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "topic": "Arithmetic 09 : Profit and Loss - 2",
+            "date": "2024-02-14T00:00:00.000Z",
+            "startTime": "2024-02-14T14:30:00.000Z",
+            "endTime": "2024-02-14T16:55:00.000Z",
+            "timeline": [],
+            "conversationId": "65cc4a92ddad4c0018fadfef",
+            "lectureType": "LIVE",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/5a79fb33-650b-4a71-9369-2d51a26545cc\/master.mpd",
+            "videoDetails": {
+                "_id": "65ccfc71d6d6b80018f47065",
+                "id": "65ccfc71d6d6b80018f47065",
+                "name": "Arithmetic 09 : Profit and Loss - 2",
+                "image": "https:\/\/static.pw.live\/5eb393ee95fab7468a79d189\/dd9a8445-4b46-4450-8056-e5983fc1d8c9.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/5a79fb33-650b-4a71-9369-2d51a26545cc\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:25:04",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-02-14T17:46:25.519Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65c295fb1686fd0018ca5e63",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "topic": "Arithmetic 08 : Profit and Loss - 1",
+            "date": "2024-02-07T00:00:00.000Z",
+            "startTime": "2024-02-07T14:30:00.000Z",
+            "endTime": "2024-02-07T17:04:00.000Z",
+            "timeline": [],
+            "conversationId": "65c295fa38808a00183ebcea",
+            "lectureType": "LIVE",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/d793b668-6b5b-46b0-975f-899911136ad8\/master.mpd",
+            "videoDetails": {
+                "_id": "65c3c385c90b8e0018ceaa28",
+                "id": "65c3c385c90b8e0018ceaa28",
+                "name": "Arithmetic 08 : Profit and Loss - 1",
+                "image": "https:\/\/static.pw.live\/5eb393ee95fab7468a79d189\/88c2f914-2beb-4f83-a70d-a78ef90f9704.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/d793b668-6b5b-46b0-975f-899911136ad8\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:33:16",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-02-07T17:53:09.126Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65b3f284cbf0a4001960da04",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "topic": "Arithmetic 07 : Simple Interest and Compound Interest - 2",
+            "date": "2024-01-31T00:00:00.000Z",
+            "startTime": "2024-01-31T14:30:00.000Z",
+            "endTime": "2024-01-31T16:53:00.000Z",
+            "timeline": [],
+            "conversationId": "65b3f28423df77001823603b",
+            "lectureType": "LIVE",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/8a741710-e6c0-4b0c-b9be-1485a14d2c67\/master.mpd",
+            "videoDetails": {
+                "_id": "65ba8713d2592a0018375b70",
+                "id": "65ba8713d2592a0018375b70",
+                "name": "Arithmetic 07 : Simple Interest and Compound Interest - 2",
+                "image": "https:\/\/static.pw.live\/5eb393ee95fab7468a79d189\/4472b361-16af-4817-86f3-c2dd0e7da80e.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/8a741710-e6c0-4b0c-b9be-1485a14d2c67\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:23:25",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-01-31T17:44:51.807Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65afc55fe875f000188fc625",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "topic": "Arithmetic 06 : Simple Interest and Compound Interest - 1",
+            "date": "2024-01-24T00:00:00.000Z",
+            "startTime": "2024-01-24T14:30:28.000Z",
+            "endTime": "2024-01-24T17:05:33.000Z",
+            "timeline": [],
+            "conversationId": "65afc55fe875f000188fc627",
+            "lectureType": "LIVE",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/36735c5d-4f63-4131-ac41-a44212e2956b\/master.mpd",
+            "videoDetails": {
+                "_id": "65b14eb472c63f001884a29c",
+                "id": "65b14eb472c63f001884a29c",
+                "name": "Arithmetic 06 : Simple Interest and Compound Interest - 1",
+                "image": "https:\/\/static.pw.live\/5eb393ee95fab7468a79d189\/823796bb-054f-490f-ad3d-dc9367578dfa.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/36735c5d-4f63-4131-ac41-a44212e2956b\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:34:12",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-01-24T17:53:56.327Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65a7d81e3d138e0018af328b",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "topic": "Arithmetic 05 : Ratio & Proportion 3",
+            "date": "2024-01-20T00:00:00.000Z",
+            "startTime": "2024-01-20T12:00:00.000Z",
+            "endTime": "2024-01-20T14:19:00.000Z",
+            "timeline": [],
+            "conversationId": "65a7d81d4285180018abeef9",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/9640721c-e812-471a-9395-254f9e45e135\/master.mpd",
+            "videoDetails": {
+                "_id": "65abe12740358c001899910f",
+                "id": "65abe12740358c001899910f",
+                "name": "Arithmetic 05 : Ratio & Proportion 3",
+                "image": "https:\/\/static.pw.live\/5eb393ee95fab7468a79d189\/4f062d0a-e8be-48f5-807e-e9c6c664d045.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/9640721c-e812-471a-9395-254f9e45e135\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:18:42",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-01-20T15:05:11.249Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "659e350818362500189ad9c8",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "topic": "Arithmetic 04 : Ratio & Proportion 2",
+            "date": "2024-01-10T00:00:00.000Z",
+            "startTime": "2024-01-10T14:30:00.000Z",
+            "endTime": "2024-01-10T14:30:00.000Z",
+            "timeline": [],
+            "conversationId": "659e350847737800187632aa",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/d461ed0b-839d-4d45-a247-92373f8d6516\/master.mpd",
+            "videoDetails": {
+                "_id": "659ed36a96073200189a4361",
+                "id": "659ed36a96073200189a4361",
+                "name": "Arithmetic 04 : Ratio & Proportion 2",
+                "image": "https:\/\/static.pw.live\/5eb393ee95fab7468a79d189\/072c74ce-60a4-4ff0-8250-07738043b86d.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/d461ed0b-839d-4d45-a247-92373f8d6516\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:13:04",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-01-10T17:27:06.592Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6592df66b7555000186959bd",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "topic": "Arithmetic 03 : Ratio & Proportion 1",
+            "date": "2024-01-03T00:00:00.000Z",
+            "startTime": "2024-01-03T14:30:00.000Z",
+            "endTime": "2024-01-03T14:30:00.000Z",
+            "timeline": [],
+            "conversationId": "6592df6661978400181c6de3",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/ecfd8f82-8a68-4931-bd7f-8291c288c608\/master.mpd",
+            "videoDetails": {
+                "_id": "65959ae1a42abb001813118d",
+                "id": "65959ae1a42abb001813118d",
+                "name": "Arithmetic 03 : Ratio & Proportion 1",
+                "image": "https:\/\/static.pw.live\/5eb393ee95fab7468a79d189\/a5d0efe9-6719-4e64-bec0-563889959903.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/ecfd8f82-8a68-4931-bd7f-8291c288c608\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:17:28",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2024-01-03T17:35:29.504Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "658b1a544b43330018323fe4",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": false,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "topic": "Arithmetic 02 : Percentage 2",
+            "date": "2023-12-27T00:00:00.000Z",
+            "startTime": "2023-12-27T14:30:00.000Z",
+            "endTime": "2023-12-27T14:30:00.000Z",
+            "timeline": [],
+            "conversationId": "658b1a54c634590018414764",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/56bc681a-fc0d-49fa-8466-dbce27af4367\/master.mpd",
+            "videoDetails": {
+                "_id": "658c5f6145e15b00183b9fa2",
+                "id": "658c5f6145e15b00183b9fa2",
+                "name": "Arithmetic 02 : Percentage 2",
+                "image": "https:\/\/static.pw.live\/5eb393ee95fab7468a79d189\/9f1e963d-60c7-4a2d-b71a-9c3f87d91a0f.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/56bc681a-fc0d-49fa-8466-dbce27af4367\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:15:44",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2023-12-27T17:31:13.058Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65828adc31261d00180eb312",
+            "restrictedSchedule": false,
+            "restrictedTime": 0,
+            "teachers": [
+                "637cc5cbcfef2c022f6ab13f"
+            ],
+            "urlType": "penpencilvdo",
+            "tags": [
+                {
+                    "_id": "65828a9122d3ab39d75af00f",
+                    "name": "Arithmetic"
+                }
+            ],
+            "isFree": true,
+            "isChatEnabled": false,
+            "isDoubtEnabled": true,
+            "isCommentDisabled": false,
+            "isPathshala": false,
+            "isDPPVideos": false,
+            "status": "COMPLETED",
+            "topic": "Arithmetic 01 : Percentage 1",
+            "date": "2023-12-20T00:00:00.000Z",
+            "startTime": "2023-12-20T14:30:00.000Z",
+            "endTime": "2023-12-20T14:30:00.000Z",
+            "timeline": [],
+            "conversationId": "65828adccce2730018f85d29",
+            "url": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/90b7bbbe-5070-48e7-8d5a-49ff32df5c12\/master.mpd",
+            "videoDetails": {
+                "_id": "6583227efa94020018f8ba67",
+                "id": "6583227efa94020018f8ba67",
+                "name": "Arithmetic 01 : Percentage 1",
+                "image": "https:\/\/static.pw.live\/5eb393ee95fab7468a79d189\/a9dbb747-5c29-4697-a4a9-f7c3162db62a.png",
+                "videoUrl": "https:\/\/d1d34p8vz63oiq.cloudfront.net\/90b7bbbe-5070-48e7-8d5a-49ff32df5c12\/master.mpd",
+                "description": "<!DOCTYPE html>\n<html>\n<head>\n<\/head>\n<body>\n\n<\/body>\n<\/html>",
+                "duration": "02:08:54",
+                "status": "Ready",
+                "types": [
+                    "DASH",
+                    "HLS"
+                ],
+                "createdAt": "2023-12-20T17:21:02.382Z",
+                "drmProtected": false
+            },
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        }
+    ],
+    "notes": [
+        {
+            "_id": "662815657ad9580018339e43",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-04-24T00:00:00.000Z",
+            "startTime": "2024-04-24T14:30:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "66293efaf5a1ae1687820308",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 19 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "66293ef7cf235a001855f3bf",
+                            "name": "Arithmetic 19  Class Notes  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/83ebdff0-ba6c-42b5-802c-e6e8e26b4336.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "661f589191dd200018251354",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-04-17T00:00:00.000Z",
+            "startTime": "2024-04-17T14:30:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "6620041fa5040be7a43b606b",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 18 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "6620040c41c11500181094a4",
+                            "name": "Arithmetic 18  Class Notes  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/542d11a5-84e2-43df-8b33-5bb5e85daa81.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6615a9263777dc00185eb67f",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-04-10T00:00:00.000Z",
+            "startTime": "2024-04-10T14:30:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "6616cad07f66515a56b597bd",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 17 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "6616cacb287cd90018322ab0",
+                            "name": "Arithmetic 17  Class Notes  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/b70f7d4a-f473-4d55-a696-96167ecfabe8.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "660c4a125b23850018673f6f",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-04-03T00:00:00.000Z",
+            "startTime": "2024-04-03T14:30:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "660d8c419a5e0a44bc664e6b",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 16 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "660d8c3c2e013900187d4da6",
+                            "name": "Arithmetic 16  Class Notes  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/fdcb62c9-ea9d-47b2-abed-599bc6dd2723.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6603361a588d430018055816",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-03-27T00:00:00.000Z",
+            "startTime": "2024-03-27T14:30:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "6604517831421ee0035c2f54",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 15 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "660451764087c8001800d4d1",
+                            "name": "Arithmetic 15  Class Notes  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/70dc34c4-edb2-42ef-b2e2-938235da7baf.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65f9e72daef3e500182a9027",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-03-20T00:00:00.000Z",
+            "startTime": "2024-03-20T14:30:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "65fb19d1ce81cc7ff4cb1b8d",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 14 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "65fb19ce597c170018288ac3",
+                            "name": "Arithmetic 14  Class Notes  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/1e346086-2e42-4424-a88f-b512bcdb4f94.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65f142365ba00d001837507e",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-03-13T00:00:00.000Z",
+            "startTime": "2024-03-13T14:30:33.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "65f1dac445babc9160921a95",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 13 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "65f1dac386368f0018dbbf07",
+                            "name": "Arithmetic 13  Class Notes  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/df920957-5fdc-4bf9-8867-1d2ded720123.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65e7fbf66208fa001850d712",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-03-06T00:00:00.000Z",
+            "startTime": "2024-03-06T14:30:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "65e8a29066c2bd6fd03bd4f0",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 12 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "65e8a28edc0a350019d02b71",
+                            "name": "Arithmetic 12  Class Notes  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/ff37412f-e963-49b5-afa3-c21f2e67377c.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65dea087c66de200184677cb",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-02-28T00:00:00.000Z",
+            "startTime": "2024-02-28T14:30:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "65df6722a7b985cc5e95a110",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 11 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "65df672198fb7700185dc54f",
+                            "name": "Arithmetic 11  Class Notes  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/9ff3432e-f79e-470b-8833-25291abadda7.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65d234bf0fea1d00184f0fff",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-02-19T00:00:00.000Z",
+            "startTime": "2024-02-19T14:30:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "65d38eb81fba625ea590eb38",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 10 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "65d38eb6ddf2d600180bd904",
+                            "name": "Arithmetic 10  Class Notes  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/720607d7-dfb5-41ff-9afe-2b24c310ec4c.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65cc4a92c1082e00186d43dd",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-02-14T00:00:00.000Z",
+            "startTime": "2024-02-14T14:30:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "65ccf6ddf84e03f93128e3fa",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 09 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "65ccf6dbddf04f0018938be3",
+                            "name": "Arithmetic 09  Class Notes  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/ad769e85-26e7-40da-8c7b-13f345e9d6f2.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65c295fb1686fd0018ca5e63",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-02-07T00:00:00.000Z",
+            "startTime": "2024-02-07T14:30:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "65c3ba256e595c396ed08fe0",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 08 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "65c3ba220aa3d7001864ed68",
+                            "name": "Arithmetic 08  Class Notes  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/04526b06-6433-4eca-9b04-2dff8dc49299.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65b3f284cbf0a4001960da04",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-01-31T00:00:00.000Z",
+            "startTime": "2024-01-31T14:30:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "65ba7f69933646e763d7b0a5",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 07 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "65ba7f662da7a800184aaec5",
+                            "name": "Arithmetic 07 Class Notes.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/f0413afb-cf32-4cee-be33-2edf5cb7f5eb.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65afc55fe875f000188fc625",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-01-24T00:00:00.000Z",
+            "startTime": "2024-01-24T14:30:28.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "65b14a046e58180a8f4ab9ea",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 06 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "65b14a021766520018254835",
+                            "name": "Arithmetic 06  Class Notes.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/7069ec1c-1774-4c9a-bd50-3b8e820b2aa7.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65a7d81e3d138e0018af328b",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-01-20T00:00:00.000Z",
+            "startTime": "2024-01-20T12:00:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "65abd9adaa9f067e9454f413",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 05 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "65abd9ab8daf6d0019508f78",
+                            "name": "Arithmetic 05  Class Notes  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/2e7215aa-07ab-444b-9d6b-5b9439b49066.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "659e350818362500189ad9c8",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-01-10T00:00:00.000Z",
+            "startTime": "2024-01-10T14:30:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "659ece731d464ae4f573e1d9",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 04 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "659ece4d06a4710018a9fd63",
+                            "name": "Arithmetic 04  Class Notes  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/30c538b4-059b-48ed-80f1-eae3989a1d6e.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6592df66b7555000186959bd",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2024-01-03T00:00:00.000Z",
+            "startTime": "2024-01-03T14:30:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "659593a5a6f2819aa77dda93",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 03 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "659593a3cdda200018437001",
+                            "name": "Arithmetic 03  Class Notes  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/dab4ed2d-a7e1-4371-8d73-81c690d715f4.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "658b1a544b43330018323fe4",
+            "isFree": false,
+            "status": "COMPLETED",
+            "date": "2023-12-27T00:00:00.000Z",
+            "startTime": "2023-12-27T14:30:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "658c5725161360da15c73787",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 02 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "658c572397896d00183a3383",
+                            "name": "Arithmetic 02  Class Notes  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/b8d71f4c-bc60-43d3-9be1-4ff58f367340.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65828adc31261d00180eb312",
+            "isFree": true,
+            "status": "COMPLETED",
+            "date": "2023-12-20T00:00:00.000Z",
+            "startTime": "2023-12-20T14:30:00.000Z",
+            "isDPPNotes": false,
+            "homeworkIds": [
+                {
+                    "_id": "65831c47783e56df0ee9e712",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 01 : Class Notes || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "6586b2a286674b0018f54fa7",
+                            "name": "Arithmetic 01  Class Notes  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/d2e7f854-fba1-4833-a3f4-55d4e8e14c5b.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        }
+    ],
+    "DppNotes": [
+        {
+            "_id": "6628156621165200181078ff",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-24T00:00:00.000Z",
+            "startTime": "2024-04-24T14:30:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "6628d45f28eae6ef5e0f5a1f",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 19 : DPP 19 || MBA Pioneer 2024 Batch",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "6628d45cc38b12001853ffc8",
+                            "name": "Arithmetic 19  DPP 19  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/3b6fbfce-9632-412e-9b4f-88e4ef0039cf.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "661f589116306b00180f1bb7",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-17T00:00:00.000Z",
+            "startTime": "2024-04-17T14:30:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "661fdc9134ca3ab8d7cc78e1",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 18 : DPP 18 || MBA Pioneer 2024 Batch",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "661fdc537c9aa0001838ed01",
+                            "name": "Arithmetic 18  DPP 18  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/9c748b54-d43f-42f1-9c87-3dc6c1dbc17b.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6615a99cf99fc80018641cc7",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-10T00:00:00.000Z",
+            "startTime": "2024-04-10T04:30:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "66162c6832c50dada52b0457",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 17 : DPP 17 || MBA Pioneer 2024 Batch",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "66162c58b040f10018d94ae0",
+                            "name": "Arithmetic 17  DPP 17  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/c0ab3cc8-c0c3-4cac-9508-53d2a587827c.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "660c4a135b23850018673f7f",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-03T00:00:00.000Z",
+            "startTime": "2024-04-03T14:30:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "660d5c95569046e3d1c69feb",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 16 : DPP 16 || MBA Pioneer 2024 Batch",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "660d5c100b99180018bdb780",
+                            "name": "Arithmetic 16  DPP 16  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/52e99548-f99a-4446-ab01-ae83ce783a2b.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6603361bea6cfe00180f7ab6",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-03-27T00:00:00.000Z",
+            "startTime": "2024-03-27T14:30:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "660341f0a8f8a888b509e461",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 15 : DPP 15 || MBA Pioneer 2024 Batch",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "66034330b8b4ed0018bb74c7",
+                            "name": "Arithmetic 15  DPP 15  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/e37b643f-e08a-463a-8056-06f67a1bc95e.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65f9e72feb7daa0018c783fa",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-03-20T00:00:00.000Z",
+            "startTime": "2024-03-20T14:30:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "65f9ef5c5f409d6b12fcbedc",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 14 : DPP 14 || MBA Pioneer 2024 Batch",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "65f9ef5accab7e0018d62fbf",
+                            "name": "Arithmetic 14  DPP 14  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/df0cd4ca-6c82-40d7-8478-18c0c21fb026.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65f1708571e5d9001848bd4b",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-03-13T00:00:00.000Z",
+            "startTime": "2024-03-13T14:30:04.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "65f1703f2df6e56593706319",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 13 : DPP 13 || MBA Pioneer 2024 Batch",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "65f1703c2e35f700181132f6",
+                            "name": "Arithmetic 13 DPP 13 MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/f53a97e3-64a8-4ec2-bde4-f3fa5810d146.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65e7fbf712cf7100187ab692",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-03-06T00:00:00.000Z",
+            "startTime": "2024-03-06T14:30:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "65e85f3cb9a147d1e383a28c",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 12 : DPP 12 || MBA Pioneer 2024 Batch",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "65e85f38fc0a5c0018edceee",
+                            "name": "Arithmetic 12  DPP 12  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/0a8a6e87-c4c6-4a5e-8ebd-bb6452bf84f4.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65dea0890a337c001893a98d",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-02-28T00:00:00.000Z",
+            "startTime": "2024-02-28T14:30:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "65df2d589503d4f95173c38f",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 11 : DPP 11 || MBA Pioneer 2024 Batch",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "65df2d5786cfb0001828c00f",
+                            "name": "Arithmetic 11  DPP 11  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/b3e65058-20a6-4cbf-bfd7-f3a3c85fedb5.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65d234c854867000186aea4e",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-02-19T00:00:00.000Z",
+            "startTime": "2024-02-19T14:30:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "65d247fc859d4831492a17a9",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 10 : DPP 10 || MBA Pioneer 2024 Batch",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "65d2635f714e4f00181c1247",
+                            "name": "Arithmetic 10  DPP 10  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/8a26a53a-96e2-4417-8e18-501b2a7458c2.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65cc4a93dd2dee0018afce53",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-02-14T00:00:00.000Z",
+            "startTime": "2024-02-14T14:30:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "65cc8b500b881b92bc8847ed",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 09 : DPP 09 || MBA Pioneer 2024 Batch",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "65cc8b4e6de9b50018d46304",
+                            "name": "Arithmetic 09  DPP 09  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/d2bps9p1kiy4ka.cloudfront.net\/",
+                            "key": "5eb393ee95fab7468a79d189\/59a0c016-aa2e-48a8-8d20-3b9bccc89ef0.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65c29758a8f90d0018730010",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-02-07T00:00:00.000Z",
+            "startTime": "2024-02-07T14:30:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "65c2992d4ad34db0e578000b",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 08 : DPP 08 || MBA Pioneer 2024 Batch",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "65c298a703b2080018a239b2",
+                            "name": "Arithmetic 08  DPP 08  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/13e7b95d-535f-4c86-a467-28853076f2d7.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65b3f2857c0f1d00181af760",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-01-31T00:00:00.000Z",
+            "startTime": "2024-01-31T14:30:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "65b9ecd7cc0cb06d468b3397",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 07 : DPP 07 || MBA Pioneer 2024 Batch",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "65b9ecd5519a6a00185a9ffa",
+                            "name": "Arithmetic 07  DPP 07 MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/e26493fa-96a4-4851-a9a0-1af729f1bbf5.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65afc90251ac1a001869de51",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-01-24T00:00:00.000Z",
+            "startTime": "2024-01-24T14:30:59.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "65afc812a5596a97ad0d03fc",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 06 : DPP 06 || MBA Pioneer 2024 Batch",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "65afc80ea30c4f00187d0563",
+                            "name": "Arithmetic 06  DPP 06  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/b9f54766-24a8-4ea9-a1bb-c0c2c15ea7ab.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65abb8ef6b19d50018e7553f",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-01-20T00:00:00.000Z",
+            "startTime": "2024-01-20T12:00:15.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "65aad0baaa9f067e944e7e88",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 05 : DPP 05 || MBA Pioneer 2024 Batch",
+                    "note": "Class Notes",
+                    "attachmentIds": [
+                        {
+                            "_id": "65aacf3ded7ace00183bcc5d",
+                            "name": "Arithmetic 05  DPP 05  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/27676741-05c8-41e2-b498-aefe521c6aa8.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "659ba6e754b0aa001809f8d5",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-01-10T00:00:00.000Z",
+            "startTime": "2024-01-10T14:30:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "659e4fb4bc2f78ec04d1111c",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 04 : DPP 04 || MBA Pioneer 2024 Batch",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "659e4fa087e3050018bda94b",
+                            "name": "Arithmetic 04  DPP 04  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/d1e9756a-f42d-4b4c-8d4b-96fc1bdec690.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6592df66caa37000182023a7",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-01-03T00:00:00.000Z",
+            "startTime": "2024-01-03T14:30:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "65955e696bca4a1a85575c28",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 03 : DPP 03 || MBA Pioneer 2024 Batch",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "65955e64d0f3720018de3ae4",
+                            "name": "Arithmetic 03  DPP 03  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/02c2ecfd-2f43-4698-bd36-128f487540fc.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "658b1a55781c89001826699d",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2023-12-27T00:00:00.000Z",
+            "startTime": "2023-12-27T14:30:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "658b1c8dab11eb423c9b2afc",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 02 : DPP 02 || MBA Pioneer 2024 Batch",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "658b1c8c9027ec001844a63f",
+                            "name": "Arithmetic 02  DPP 02  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/378af659-33a7-429f-b9b0-81d9e1c9ccbf.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6582d66dda4e1e0018dfab95",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2023-12-20T00:00:00.000Z",
+            "startTime": "2023-12-20T14:30:00.000Z",
+            "isDPPNotes": true,
+            "homeworkIds": [
+                {
+                    "_id": "6582d75a5fabfb1692f64a95",
+                    "actions": [
+                        "Open",
+                        "Download",
+                        "Print"
+                    ],
+                    "topic": "Arithmetic 01 : DPP 01 || MBA Pioneer  2024 Batch",
+                    "note": "DPP",
+                    "attachmentIds": [
+                        {
+                            "_id": "6582d75801e2ef001890cca0",
+                            "name": "Algebra 01  DPP 01  MBA Pioneer 2024 Batch.pdf",
+                            "baseUrl": "https:\/\/static.pw.live\/",
+                            "key": "5eb393ee95fab7468a79d189\/d66cf2ec-b2c3-4088-8e29-31301c02a651.pdf"
+                        }
+                    ],
+                    "batchSubjectId": "652fb930f7abe80018e67bcc"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        }
+    ],
+    "DppVideos": [],
+    "exercises": [
+        {
+            "_id": "6628156621165200181078ff",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-24T00:00:00.000Z",
+            "startTime": "2024-04-24T14:30:00.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 19 : DPP 19 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "6631e12ff98e80001818c997",
+                            "exerciseId": "6628d185f7ffe7108d6e7dda",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-19---dpp-19-||-mcq-quiz-223190"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "661f589116306b00180f1bb7",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-17T00:00:00.000Z",
+            "startTime": "2024-04-17T14:30:00.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 18 : DPP 18 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "661fdb872e414c00185269eb",
+                            "exerciseId": "661fdb87755dc986a04798b3",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-18---dpp-18-||-mcq-quiz-474786"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6615a99cf99fc80018641cc7",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-10T00:00:00.000Z",
+            "startTime": "2024-04-10T04:30:00.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 17 : DPP 17 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "66162d122d015b00184713ee",
+                            "exerciseId": "66162d124e73222e9f511f68",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-17---dpp-17-||-mcq-quiz-470535"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "660c4a135b23850018673f7f",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-04-03T00:00:00.000Z",
+            "startTime": "2024-04-03T14:30:00.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 16 : DPP 16 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "660d5c713b48ce001907b111",
+                            "exerciseId": "660d5c70ae278964afcd52bd",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-16---dpp-16-||-mcq-quiz-379849"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6603361bea6cfe00180f7ab6",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-03-27T00:00:00.000Z",
+            "startTime": "2024-03-27T14:30:00.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 15 : DPP 15 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "660d5c3fa426780018c86bc8",
+                            "exerciseId": "66034253289f517e47133b3f",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-15---dpp-15-||-mcq-quiz-312435"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65f9e72feb7daa0018c783fa",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-03-20T00:00:00.000Z",
+            "startTime": "2024-03-20T14:30:00.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 14 : DPP 14 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "65f9ef93e087fd00187f7943",
+                            "exerciseId": "65f9ef93a22a559d90503094",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-14---dpp-14-||-mcq-quiz-301882"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65f1708571e5d9001848bd4b",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-03-13T00:00:00.000Z",
+            "startTime": "2024-03-13T14:30:04.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 13 : DPP 13 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "65f16757eba9be00183e3c4f",
+                            "exerciseId": "65f16757efcfa7ff0df8b649",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-13---dpp-13-||-mcq-quiz-673746"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65e7fbf712cf7100187ab692",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-03-06T00:00:00.000Z",
+            "startTime": "2024-03-06T14:30:00.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 12 : DPP 12 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "65e8683327ebbe00185b4bd2",
+                            "exerciseId": "65e86832fd4fd73188b33909",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-12---dpp-12-||-mcq-quiz-160821"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65dea0890a337c001893a98d",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-02-28T00:00:00.000Z",
+            "startTime": "2024-02-28T14:30:00.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 11 : DPP 11 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "65df2de78c5c1c0018608795",
+                            "exerciseId": "65df2de774c0d283b510b4a8",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-11---dpp-11-||-mcq-quiz-851070"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65d234c854867000186aea4e",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-02-19T00:00:00.000Z",
+            "startTime": "2024-02-19T14:30:00.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 10 : DPP 10 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "65d24637fc90740018a1140a",
+                            "exerciseId": "65d2463611f8ad8bfa428cb5",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-10---dpp-10-||-mcq-quiz-429005"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65cc4a93dd2dee0018afce53",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-02-14T00:00:00.000Z",
+            "startTime": "2024-02-14T14:30:00.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 09 : DPP 09 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "65cc8bddddad4c0018fbfe47",
+                            "exerciseId": "65cc8bdd53d4d71550454abc",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-09---dpp-09-||-mcq-quiz-559739"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65c29758a8f90d0018730010",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-02-07T00:00:00.000Z",
+            "startTime": "2024-02-07T14:30:00.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 08 : DPP 08 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "65ccfa84a59af60018bfb810",
+                            "exerciseId": "65c297a2f7cbbf0d1a988100",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-08---dpp-08-||-mcq-quiz-987189"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65b3f2857c0f1d00181af760",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-01-31T00:00:00.000Z",
+            "startTime": "2024-01-31T14:30:00.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 07 : DPP 07 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "65ba00883cb8e50018048b0a",
+                            "exerciseId": "65ba00889b69e93e089c8ca8",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-07---dpp-07-||-mcq-quiz-709252"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65afc90251ac1a001869de51",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-01-24T00:00:00.000Z",
+            "startTime": "2024-01-24T14:30:59.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 06 : DPP 06 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "65b0108af549a6001817ec1f",
+                            "exerciseId": "65b00ba16ed3200803570b69",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-06---dpp-06-||-mcq-quiz-847717"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "65abb8ef6b19d50018e7553f",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-01-20T00:00:00.000Z",
+            "startTime": "2024-01-20T12:00:15.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 05 : DPP 05 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "65b01093618f7b001845903f",
+                            "exerciseId": "65aad10276c4573b7b0cc548",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-05---dpp-05-||-mcq-quiz-734696"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "659ba6e754b0aa001809f8d5",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-01-10T00:00:00.000Z",
+            "startTime": "2024-01-10T14:30:00.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 04 : DPP 04 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "65b0109bff244b0018d41de0",
+                            "exerciseId": "659f4f5e330dac36e593378d",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-04---dpp-04-||-mcq-quiz-703126"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6592df66caa37000182023a7",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2024-01-03T00:00:00.000Z",
+            "startTime": "2024-01-03T14:30:00.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 03 : DPP 03 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "6595609738f1c80018a7f9eb",
+                            "exerciseId": "65956097278e80f9bc762182",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-03---dpp-03-||-mcq-quiz-469239"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "658b1a55781c89001826699d",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2023-12-27T00:00:00.000Z",
+            "startTime": "2023-12-27T14:30:00.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 02 : DPP 02 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "658b1d110179a70019e362d4",
+                            "exerciseId": "658b1d11ba6c094290bb8576",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-02---dpp-02-||-mcq-quiz-981042"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        },
+        {
+            "_id": "6582d66dda4e1e0018dfab95",
+            "isFree": false,
+            "status": "PENDING",
+            "date": "2023-12-20T00:00:00.000Z",
+            "startTime": "2023-12-20T14:30:00.000Z",
+            "exerciseIds": [
+                {
+                    "type": "Exercise",
+                    "availableFor": [],
+                    "status": "Active",
+                    "title": "Arithmetic 01 : DPP 01 || MCQ Quiz",
+                    "content": [
+                        {
+                            "_id": "6582d53bb4e3910018ec1638",
+                            "exerciseId": "6582d53b3ef9098c33213a7e",
+                            "timeline": []
+                        }
+                    ],
+                    "slug": "arithmetic-01---dpp-01-||-mcq-quiz-738939"
+                }
+            ],
+            "dRoomId": "65808add8aa60fa81fe40189",
+            "isBatchDoubtEnabled": true
+        }
+    ]
+}
